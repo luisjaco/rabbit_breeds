@@ -1,14 +1,14 @@
 # rabbit_breeds
-Welcome to rabbit_breeds! A SQL database of over 100 different rabbit breeds, made by Luis Jaco, using PostgreSQL.
+Welcome to rabbit_breeds! A database of over 100 different rabbit breeds, made by Luis Jaco, using PostgreSQL.
 
-This is a SQL database including 188 different rabbit breeds, with additional information for each rabbit.
+This is a PostgreSQL database including 188 different rabbit breeds, with additional information for each rabbit.
 
-This is a project made to showcase my knowledge with SQL.
+This is a project made to showcase my knowledge with PostgreSQL.
 
 # Features
 * This is a 3NF database of 188 different rabbit breeds with features like indexes, constraints, and parent-child relationships.
 * Each rabbit has a description which includes: ear type, color, ARBA (American Rabbit Breeders Association) recognition, BRC (British Rabbit Council) recognition, size range (in kilograms), fur type(s), and origin(s).
-* In this repository, there are SQL files for both viewing and inserting rabbit data.
+* In this repository, there are PostgreSQL files for both viewing and inserting rabbit data.
 
 # Notes
 * By all means, this is not intended to be a professional source of rabbit information.
